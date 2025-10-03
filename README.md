@@ -1,6 +1,6 @@
-# GITLOADER - Interactive GitHub Upload Tool
+# GITLOADER - Simple GitHub Upload Tool
 
-Et avanceret interaktivt CLI værktøj til at uploade projekter til GitHub med templates og guides.
+Et simpelt og elegant CLI værktøj til at uploade projekter til GitHub med ét kommando.
 
 ## Installation
 
@@ -9,24 +9,24 @@ Et avanceret interaktivt CLI værktøj til at uploade projekter til GitHub med t
 sudo cp GITLOADER /usr/local/bin/
 
 # Eller brug det direkte
-./GITLOADER
+./GITLOADER /path/to/your/project
 ```
 
 ## Brug
 
-Start GITLOADER:
+Super simpelt - bare giv det stien til dit projekt:
 ```bash
-./GITLOADER
+./GITLOADER /home/user/my-project
+./GITLOADER ./my-website
+./GITLOADER /var/www/html/my-app
 ```
 
-## Kommandoer
+## Hvad sker der?
 
-- `upload` - Upload nuværende projekt til GitHub
-- `new` - Opret nyt projekt og upload
-- `status` - Tjek GitHub CLI status
-- `setup` - Setup GitHub CLI authentication
-- `help` - Vis hjælp
-- `exit` - Afslut GITLOADER
+1. **Logo vises** - Smukt ASCII art logo
+2. **Guide vises** - Hurtig guide til hvad der sker
+3. **Interaktive prompts** - Repository navn, beskrivelse, osv.
+4. **Automatisk upload** - Git init, commit, push til GitHub
 
 ## Funktioner
 
