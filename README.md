@@ -30,21 +30,21 @@ Super simpelt - bare giv det stien til dit projekt:
 
 ## Funktioner
 
-### 🎯 **Interaktiv Projekt Oprettelse**
+### **Interaktiv Projekt Oprettelse**
 - Python Script templates
-- Bash Script templates  
+- Bash Script templates
 - Web Project templates
 - CLI Tool templates
 - Custom projects
 
-### 🚀 **Automatisk Upload**
+### **Automatisk Upload**
 - Git initialization
 - README.md generation
 - MIT License addition
 - Public/Private repositories
 - Smart file detection
 
-### 🎨 **User Experience**
+### **User Experience**
 - ASCII art logo
 - Farvet output
 - Step-by-step guides
@@ -79,7 +79,7 @@ cd /path/to/your/project
 - setup.sh script
 - Executable permissions
 
-### Bash Script  
+### Bash Script
 - Main bash file
 - install.sh script
 - Executable permissions
@@ -105,11 +105,11 @@ cd /path/to/your/project
 
 ## Features
 
-✅ **Interaktiv Interface** - Guided workflow  
-✅ **Project Templates** - Ready-to-use templates  
-✅ **Smart Detection** - Automatisk fil detection  
-✅ **Error Handling** - Robust fejlhåndtering  
-✅ **Colored Output** - Bedre UX med farver  
-✅ **Auto Setup** - Automatisk git og GitHub setup  
-✅ **License & README** - Automatisk dokumentation  
-✅ **Public/Private** - Repository visibility options
+ **Interaktiv Interface** - Guided workflow
+ **Project Templates** - Ready-to-use templates
+ **Smart Detection** - Automatisk fil detection
+ **Error Handling** - Robust fejlhåndtering
+ **Colored Output** - Bedre UX med farver
+ **Auto Setup** - Automatisk git og GitHub setup
+ **License & README** - Automatisk dokumentation
+ **Public/Private** - Repository visibility options
